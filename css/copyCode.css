@@ -10,6 +10,8 @@ pre {
 button {
   font-family: Inter, sans-serif;
   position: absolute;
+  top: 0px;
+  right: 0px;
   font-size: 14px;
   background-color: #ffffff;
   color: 11ee1e;
