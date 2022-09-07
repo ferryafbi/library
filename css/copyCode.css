@@ -1,0 +1,25 @@
+pre {
+  position: relative;
+  overflow: auto;
+  margin: 5px 0;
+  padding: 1.75rem 0 1.75rem 1rem;
+  border-radius: 10px;
+  background-color: #e3e3f4;
+}
+
+button {
+  font-family: Inter, sans-serif;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 14px;
+  padding: 0.15rem;
+  background-color: #ffffff;
+  color: 11ee1e;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #71b7f0;
+}
